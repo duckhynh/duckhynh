@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying in [FPT University]([url](https://www.facebook.com/FPTU.HCM?locale=vi_VN))<br>🌱 I’m currently learning Code<br>💬 Ask me about something <br>📫 Contact me: hungpdse182153@fpt.edu.vn
+🔭 I’m currently studying in [FPT University]([(https://www.facebook.com/FPTU.HCM?locale=vi_VN)])<br>🌱 I’m currently learning Code<br>💬 Ask me about something <br>📫 Contact me: hungpdse182153@fpt.edu.vn
 
 
 ## 🌐 Socials:
