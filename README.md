@@ -5,13 +5,8 @@
 <h2 align="center">A passionate software developer from VietNam 🇻🇳</h2>
 
 <br/>
-<div align="center"># 💫 About Me:
-🔭 I’m currently studying in [FPT University](https://www.facebook.com/FPTU.HCM?locale=vi_VN)<br>
-🌱 I’m currently learning Code<br>
-💬 Ask me about Java,HTML <br>
-📫 Contact me: hungpdse182153@fpt.edu.vn
-</div>
-
+# 💫 About Me:
+🔭 I’m currently studying in [FPT University](https://www.facebook.com/FPTU.HCM?locale=vi_VN)<br>🌱 I’m currently learning Code<br>💬 Ask me about Java,HTML <br>📫 Contact me: hungpdse182153@fpt.edu.vn
 
 ## 🌐 Contact With Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/duchungpham.dev) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nguyenhung.dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@duckhuynh4826) 
