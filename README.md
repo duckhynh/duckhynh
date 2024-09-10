@@ -12,7 +12,7 @@
 ## 📫 How to reach me:
 <p align="center">
   <a href="https://x.com/duchungpham_dev" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/48/twitterx--v1.png"/>
+    <img src="https://img.icons8.com/fluency/48/twitterx--v1.png"/>
   </a>
   <a href="https://facebook.com/duchungpham.dev" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
