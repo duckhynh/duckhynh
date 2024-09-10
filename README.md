@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=F74231&width=500&lines=Hi+There;I'm+Duc+Hung+!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=500&color=F74231&center=true&vCenter=true&width=500&lines=Hi+There+!+%F0%9F%91%8B;I'm+Duc+Hung+!" />
 </h1>
 
 <h3 align="center">A passionate software developer from VietNam 🇻🇳</h3>
