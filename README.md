@@ -58,7 +58,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lrMHh4MWdtbHp6OXptZHUxM3VvejB5OWd1MnFnMW03d2F6anRqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.webp" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
