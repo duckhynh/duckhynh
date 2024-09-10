@@ -69,7 +69,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=duckhynh&icon=10&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -87,3 +86,5 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hungducpham" />
   </a>
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=duckhynh&icon=10&color=13)](https://visitcount.itsvg.in)
