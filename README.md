@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <h1>💫 About Me:</h1>
+  <h2>💫 About Me:</h2>
   <p>🔭 I’m currently studying in <a href="https://www.facebook.com/FPTU.HCM?locale=vi_VN">FPT University</a></p>
   <p>🌱 I’m currently learning Code</p>
   <p>💬 Ask me about Java, HTML</p>
