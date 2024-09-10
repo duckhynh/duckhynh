@@ -6,8 +6,14 @@
 
 <br/>
 
-# 💫 About Me:
-🔭 I’m currently studying in [FPT University](https://www.facebook.com/FPTU.HCM?locale=vi_VN)<br>🌱 I’m currently learning Code<br>💬 Ask me about Java,HTML <br>📫 Contact me: hungpdse182153@fpt.edu.vn
+<div align="center">
+  <h1>💫 About Me:</h1>
+  <p>🔭 I’m currently studying in <a href="https://www.facebook.com/FPTU.HCM?locale=vi_VN">FPT University</a></p>
+  <p>🌱 I’m currently learning Code</p>
+  <p>💬 Ask me about Java, HTML</p>
+  <p>📫 Contact me: hungpdse182153@fpt.edu.vn</p>
+</div>
+
 
 ## 📫 How to reach me:
 <p align="center">
