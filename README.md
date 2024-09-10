@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Hùng</h1>
-<h3 align="center">SoftWare Engineer At FPT</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Duc+Hung!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from VietNam 🇻🇳</h3>
+
+<br/>
 
 # 💫 About Me:
 🔭 I’m currently studying in [FPT University](https://www.facebook.com/FPTU.HCM?locale=vi_VN)<br>🌱 I’m currently learning Code<br>💬 Ask me about Java,HTML <br>📫 Contact me: hungpdse182153@fpt.edu.vn
