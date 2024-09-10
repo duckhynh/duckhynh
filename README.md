@@ -5,6 +5,7 @@
 <h2 align="center">A passionate software developer from VietNam 🇻🇳</h2>
 
 <br/>
+
 # 💫 About Me:
 🔭 I’m currently studying in [FPT University](https://www.facebook.com/FPTU.HCM?locale=vi_VN)<br>🌱 I’m currently learning Code<br>💬 Ask me about Java,HTML <br>📫 Contact me: hungpdse182153@fpt.edu.vn
 
