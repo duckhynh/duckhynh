@@ -13,7 +13,7 @@
 [![Facebook](https://img.icons8.com/fluency/48/facebook-new.png)](https://facebook.com/duchungpham.dev) [![TikTok](https://img.icons8.com/color/48/tiktok--v1.png)](https://tiktok.com/@nguyenhung.dev) [![YouTube](https://img.icons8.com/color/48/youtube-play.png)](https://youtube.com/@duckhuynh4826) 
 
 # 💻 Languages and Tools:
-![C](https://img.icons8.com/fluency/48/c-programming.png) ![C++](https://img.icons8.com/fluency/100/c-plus-plus-logo.png) ![Java](https://img.icons8.com/3d-fluency/94/java.png) ![CSS3](https://img.icons8.com/color/48/css3.png) ![HTML5](https://img.icons8.com/color/48/html-5--v2.png) ![Objective-C](https://img.icons8.com/color/48/visual-studio-code-2019.png)
+![C](https://img.icons8.com/fluency/48/c-programming.png) ![C++](https://img.icons8.com/fluency/48/c-plus-plus-logo.png) ![Java](https://img.icons8.com/3d-fluency/48/java.png) ![CSS3](https://img.icons8.com/color/48/css3.png) ![HTML5](https://img.icons8.com/color/48/html-5--v2.png) ![Objective-C](https://img.icons8.com/color/48/visual-studio-code-2019.png)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=duckhynh&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=duckhynh&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
