@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
@@ -7,6 +8,11 @@
 <h3 align="center">A passionate software developer from VietNam 🇻🇳</h3>
 
 <br/>
+=======
+<h1 align="center">Hi 👋, I'm Hùng</h1>
+<h3 align="center">&#x1f1fb;&#x1f1f3;a passionate software developer from VietNam &#x1f1fb;&#x1f1f3;
+</h3>
+>>>>>>> 9266de36a4cf14f498fd5b8c062e2ddb28997f63
 
 # 💫 About Me:
 🔭 I’m currently studying in [FPT University](https://www.facebook.com/FPTU.HCM?locale=vi_VN)<br>🌱 I’m currently learning Code<br>💬 Ask me about Java,HTML <br>📫 Contact me: hungpdse182153@fpt.edu.vn
