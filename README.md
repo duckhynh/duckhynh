@@ -53,8 +53,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckhynh&layout=compact" alt="duckhynh" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=duckhynh&show_icons=true&theme=Gradient" alt="duckhynh" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=duckhynh&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false" alt="duckhynh" width="100%"/>
+      <img src="https://visitcount.itsvg.in/api?id=duckhynh&icon=0&color=0" alt="duckhynh" width="100%"/>
     </td>
     <td>
       <p align="center"> 
@@ -82,4 +82,4 @@
 ###
 
 <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hungducpham"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hungducpham" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/hungducpham"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hungducpham" /></a></p><br><br>
