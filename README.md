@@ -35,64 +35,55 @@ Hey there! I'm **Pham Duc Hung**, a Software Engineering student at **FPT Univer
 
 <br/>
 
-## 🛠️ Tech Stack & Tooling
+<details>
+  <summary><h3>🛠️ Tech Stack & Tooling (Click to expand)</h3></summary>
+  <br/>
 
-### 💻 Programming Languages
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,ts,js,c,cpp,dart&theme=dark" alt="Programming Languages" />
-  </a>
-</p>
+  ### 💻 Programming Languages
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,ts,js,c,cpp,dart&theme=dark" alt="Programming Languages" />
+    </a>
+  </p>
 
-### 🌐 Frontend & Mobile Development
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,html,css,flutter&theme=dark" alt="Frontend and Mobile" />
-  </a>
-</p>
+  ### 🌐 Frontend & Mobile Development
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,html,css,flutter&theme=dark" alt="Frontend and Mobile" />
+    </a>
+  </p>
 
-### 🗄️ Databases, DevOps & Tooling
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,postman,git,github,vscode,visualstudio&theme=dark" alt="Databases, DevOps and Tools" />
-  </a>
-</p>
-
-<br/>
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :---: |
-| **💬 ChatSignal_IR** | Real-time student messaging and collaboration platform inspired by Microsoft Teams. | `C#` `ASP.NET Core` `SignalR` `JavaScript` `HTML/CSS` | [**View Repo**](https://github.com/duckhynh/ChatSignal_IR) |
-| **🧠 AIStudyHub** | Backend Web API service built with Clean Architecture, layered design, and Docker. | `.NET 8` `Clean Architecture` `EF Core` `Docker` `Swagger` | [**View Profile**](https://github.com/duckhynh) |
-| **📊 Daily Report System** | Desktop work reporting and tracking application with database integration. | `C#` `WPF` `.NET` `MS SQL Server` | [**View Repo**](https://github.com/duckhynh/dailyreportsystem) |
-| **📱 Smart Locker Portal** | Web management portal for IoT smart locker hardware systems. | `Flutter` `Dart` `Web Portal` | [**View Repo**](https://github.com/duckhynh/locker-project-web) |
+  ### 🗄️ Databases, DevOps & Tooling
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,postman,git,github,vscode,visualstudio&theme=dark" alt="Databases, DevOps and Tools" />
+    </a>
+  </p>
+</details>
 
 <br/>
 
-## 📊 GitHub Analytics
+<details>
+  <summary><h3>📊 GitHub Analytics & Activity (Click to expand)</h3></summary>
+  <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duckhynh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Duc Hung's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=duckhynh&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
-</p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=duckhynh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Duc Hung's GitHub Stats" />
+    <img src="https://streak-stats.demolab.com/?user=duckhynh&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckhynh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
-</p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckhynh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
+  </p>
 
-<br/>
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duckhynh/duckhynh/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duckhynh/duckhynh/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/duckhynh/duckhynh/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</p>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duckhynh/duckhynh/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duckhynh/duckhynh/output/github-contribution-grid-snake.svg">
+      <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/duckhynh/duckhynh/output/github-contribution-grid-snake.svg" width="100%">
+    </picture>
+  </p>
+</details>
 
 <br/>
 
