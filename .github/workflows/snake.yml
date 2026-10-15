@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Snake and Update Productivity
 
 on:
   schedule:
@@ -10,10 +10,40 @@ on:
       - main
 
 jobs:
-  generate:
+  update-readme:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Update Productivity Box
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: ${{ github.repository_owner }}
+        run: node scripts/update-productivity.js
+
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "chore: update productivity stats [skip ci]"
+            git push origin main
+          fi
+
+  generate-snake:
+    needs: update-readme
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     timeout-minutes: 5
 
     steps:

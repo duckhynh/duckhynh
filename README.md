@@ -64,17 +64,19 @@ Hey there! I'm **Pham Duc Hung**, a Software Engineering student at **FPT Univer
 <br/>
 
 <details>
-  <summary><h3>📊 GitHub Analytics & Activity (Click to expand)</h3></summary>
+  <summary><h3>📊 GitHub Activity & Productivity (Click to expand)</h3></summary>
   <br/>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=duckhynh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Duc Hung's GitHub Stats" />
-    <img src="https://streak-stats.demolab.com/?user=duckhynh&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
-  </p>
+<!-- START_SECTION:productivity -->
+```text
+I'm a night 🦉
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckhynh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
-  </p>
+🌞 Morning     14 commits    ██░░░░░░░░░░░░░░░░░░      9.0 %
+🌇 Daytime     39 commits    █████░░░░░░░░░░░░░░░     25.2 %
+🌃 Evening     53 commits    ███████░░░░░░░░░░░░░     34.2 %
+🌙 Night       49 commits    ██████░░░░░░░░░░░░░░     31.6 %
+```
+<!-- END_SECTION:productivity -->
 
   <p align="center">
     <picture>
