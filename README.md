@@ -1,94 +1,128 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=F74949&center=true&vCenter=true&width=500&lines=Hi+There+!+%F0%9F%91%8B;I'm+Duc+Hung+!" />
+  <a href="https://github.com/duckhynh">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Pham+Duc+Hung+%F0%9F%91%8B;Software+Engineering+%40+FPT+University;Backend+Developer+%7C+.NET+%26+Java;Building+real-time+apps+%26+web+APIs" alt="Typing SVG Banner" />
+  </a>
 </h1>
 
-<h2 align="center">A passionate software developer from VietNam 🇻🇳</h2>
+<p align="center">
+  <strong>Software Engineering Student @ FPT University | .NET & Java Backend Developer</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/duckhynh">
+    <img src="https://img.shields.io/badge/Location-Vietnam%20%F0%9F%87%BB%F0%9F%87%B3-0284c7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Vietnam" />
+  </a>
+  <a href="https://hcmuni.fpt.edu.vn/" target="_blank">
+    <img src="https://img.shields.io/badge/FPT%20University-SE182153-f97316?style=for-the-badge&logo=fpt&logoColor=white" alt="FPT University" />
+  </a>
+  <a href="mailto:phamduchung888888@gmail.com">
+    <img src="https://img.shields.io/badge/Status-Open%20To%20Opportunities-10b981?style=for-the-badge&logo=target&logoColor=white" alt="Open To Opportunities" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=duckhynh&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+</p>
 
 <br/>
 
-<div align="center">
-  <h2>💫 About Me:</h2>
-  <p>🔭 I’m currently studying in <a href="https://www.facebook.com/FPTU.HCM?locale=vi_VN">FPT University</a></p>
-  <p>🌱 I’m currently learning Code</p>
-  <p>💬 Ask me about Java, HTML</p>
-  <p>📫 Contact me: hungpdse182153@fpt.edu.vn</p>
-</div>
+## 💫 About Me
 
+Hey there! I'm **Pham Duc Hung**, a Software Engineering student at **FPT University Ho Chi Minh City**. I enjoy building backend services, exploring real-time web applications, and writing clean, maintainable code.
 
-## 📫 How to reach me:
+- 🎓 **Education:** Software Engineering @ FPT University (HCM Campus)
+- 💻 **Main Focus:** Backend development with **C# (.NET Core)**, **Java**, and **RESTful APIs**
+- 🚀 **Currently Building:** Real-time chat systems with **SignalR** & backend services for **AIStudyHub**
+- 🌐 **Frontend Experience:** Building responsive user interfaces using **React**, **TypeScript**, and **Tailwind CSS**
+- 📬 **Reach Me:** [phamduchung888888@gmail.com](mailto:phamduchung888888@gmail.com) • [hungpdse182153@fpt.edu.vn](mailto:hungpdse182153@fpt.edu.vn)
+
+<br/>
+
+## 🛠️ Tech Stack & Tooling
+
+### 💻 Programming Languages
 <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,ts,js,c,cpp,dart&theme=dark" alt="Programming Languages" />
+  </a>
+</p>
+
+### 🌐 Frontend & Mobile Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,html,css,flutter&theme=dark" alt="Frontend and Mobile" />
+  </a>
+</p>
+
+### 🗄️ Databases, DevOps & Tooling
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mssql,docker,postman,git,github,vscode,visualstudio&theme=dark" alt="Databases, DevOps and Tools" />
+  </a>
+</p>
+
+<br/>
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **💬 ChatSignal_IR** | Real-time student messaging and collaboration platform inspired by Microsoft Teams. | `C#` `ASP.NET Core` `SignalR` `JavaScript` `HTML/CSS` | [**View Repo**](https://github.com/duckhynh/ChatSignal_IR) |
+| **🧠 AIStudyHub** | Backend Web API service built with Clean Architecture, layered design, and Docker. | `.NET 8` `Clean Architecture` `EF Core` `Docker` `Swagger` | [**View Profile**](https://github.com/duckhynh) |
+| **📊 Daily Report System** | Desktop work reporting and tracking application with database integration. | `C#` `WPF` `.NET` `MS SQL Server` | [**View Repo**](https://github.com/duckhynh/dailyreportsystem) |
+| **📱 Smart Locker Portal** | Web management portal for IoT smart locker hardware systems. | `Flutter` `Dart` `Web Portal` | [**View Repo**](https://github.com/duckhynh/locker-project-web) |
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=duckhynh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Duc Hung's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=duckhynh&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckhynh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
+</p>
+
+<br/>
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duckhynh/duckhynh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duckhynh/duckhynh/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/duckhynh/duckhynh/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:phamduchung888888@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://facebook.com/duchungpham.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
   <a href="https://x.com/duchungpham_dev" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/twitterx--v1.png"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
   </a>
-  <a href="https://facebook.com/duchungpham.dev" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/duckhynh" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="https://youtube.com/@duckhuynh4826" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  <a href="https://youtube.com/@duckhuynh4826" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://tiktok.com/@nguyenhung.dev" alt="TikTok" target="_blank" >
-    <img src="https://img.icons8.com/color/48/tiktok--v1.png"/>
+  <a href="https://tiktok.com/@nguyenhung.dev" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
-  <a href="mailto:phamduchung888888@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  <a href="https://www.buymeacoffee.com/hungducpham" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </p>
 
+<br/>
 
-## 💻 Languages and Tools:
+<hr />
+
 <p align="center">
-  <img src="https://img.icons8.com/fluency/48/c-programming.png" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/3d-fluency/48/java.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/apache-netbeans.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="https://img.icons8.com/color/48/html-5--v2.png"/>
-  <img src="https://img.icons8.com/color/48/css3.png"/>
-  <img src="https://img.icons8.com/color/48/bootstrap--v2.png"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+  <i>⭐️ Designed with care by <a href="https://github.com/duckhynh">Pham Duc Hung</a> • Thanks for visiting! ⭐️</i>
 </p>
-
-## Activities:
-<table style="width:100%;">
-  <tr>
-    <td>
-       <img src="https://github-readme-stats-fork.vercel.app/api/top-langs/?username=duckhynh&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="duckhynh" width="100%"/>  
-       <img src="https://github-readme-stats-fork.vercel.app/api?username=duckhynh&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false" alt="duckhynh" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lrMHh4MWdtbHp6OXptZHUxM3VvejB5OWd1MnFnMW03d2F6anRqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.webp" alt="dev" width="120%"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <h3>✍️ Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote">
-  <hr>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <h3>Support:</h3>
-  <a href="https://www.buymeacoffee.com/hungducpham">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hungducpham" />
-  </a>
-</div>
-
-[![](https://visitcount.itsvg.in/api?id=duckhynh&icon=10&color=13)](https://visitcount.itsvg.in)
