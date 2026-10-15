@@ -71,10 +71,10 @@ Hey there! I'm **Pham Duc Hung**, a Software Engineering student at **FPT Univer
 ```text
 I'm a night 🦉
 
-🌞 Morning     14 commits    ██░░░░░░░░░░░░░░░░░░      9.0 %
-🌇 Daytime     39 commits    █████░░░░░░░░░░░░░░░     25.2 %
-🌃 Evening     53 commits    ███████░░░░░░░░░░░░░     34.2 %
-🌙 Night       49 commits    ██████░░░░░░░░░░░░░░     31.6 %
+🌞 Morning     14 commits    ██░░░░░░░░░░░░░░░░░░      9.7 %
+🌇 Daytime     39 commits    █████░░░░░░░░░░░░░░░     26.9 %
+🌃 Evening     46 commits    ██████░░░░░░░░░░░░░░     31.7 %
+🌙 Night       46 commits    ██████░░░░░░░░░░░░░░     31.7 %
 ```
 <!-- END_SECTION:productivity -->
 
