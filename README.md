@@ -54,7 +54,7 @@ Hey there! I'm **Pham Duc Hung**, a Software Engineering student at **FPT Univer
 ### 🗄️ Databases, DevOps & Tooling
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mssql,docker,postman,git,github,vscode,visualstudio&theme=dark" alt="Databases, DevOps and Tools" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,postman,git,github,vscode,visualstudio&theme=dark" alt="Databases, DevOps and Tools" />
   </a>
 </p>
 
